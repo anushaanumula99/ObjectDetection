@@ -2,7 +2,7 @@
 # Object Detection using Deep learning and Open CV
 
 
-Using this deep learning model, we can detect,classify the real time objects in a video or realtime stream and label the objects provided with anchor boxes around showing the confidence of the predicition it made. It uses Tensorflow Deep learning Framework and Open Cv for Image Processing.
+Using this model, we can detect and classify the real time objects in a video or realtime stream and label the objects provided with anchor boxes around showing the confidence of the predicition it made. It uses Tensorflow Deep learning Framework and Open Cv for Image Processing.
 
 
 Creating accurate machine learning models capable of localizing and identifying
