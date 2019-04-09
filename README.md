@@ -4,7 +4,7 @@
 
 Using this model, we can detect and classify the real time objects in a video or realtime stream and label the objects provided with anchor boxes around showing the confidence of the predicition it made. It uses Tensorflow Deep learning Framework and Open Cv for Image Processing.
 
-![Alt text](relative/path/to/img.jpg?raw=true "video_demo")
+video_demo.jpeg
 
 Creating accurate machine learning models capable of localizing and identifying
 multiple objects in a single image remains a core challenge in computer vision.
