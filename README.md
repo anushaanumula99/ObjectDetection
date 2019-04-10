@@ -11,7 +11,7 @@ Using this model, we can detect and classify the real time objects in a video or
 * Python : 3.7
 
 # Detection using Camera
-![alt text](https://github.com/imprashanthv/ObjectDetection/blob/master/live_demo.png)
+![alt text](https://github.com/imprashanthv/ObjectDetection/blob/master/live_demo.png "Detection using Camera")
 
 Creating accurate machine learning models capable of localizing and identifying
 multiple objects in a single image remains a core challenge in computer vision.
@@ -21,4 +21,4 @@ models.  At Google we’ve  found this codebase to be useful.
 
 # Detection for Video
 
-![alt text](https://github.com/imprashanthv/ObjectDetection/blob/master/video_demo.jpeg)
+![alt text](https://github.com/imprashanthv/ObjectDetection/blob/master/video_demo.jpeg"Detection for Video")
