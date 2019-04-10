@@ -21,4 +21,4 @@ models.  At Google we’ve  found this codebase to be useful.
 
 # Detection for Video
 
-![alt text](https://github.com/imprashanthv/ObjectDetection/blob/master/video_demo.jpeg"Detection for Video")
+![alt text](https://github.com/imprashanthv/ObjectDetection/blob/master/video_demo.jpeg "Detection for Video")
