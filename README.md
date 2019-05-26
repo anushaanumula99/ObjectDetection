@@ -8,7 +8,7 @@ Using this model, we can detect and classify the real time objects in a video or
 
 * Platform used : Windows 10
 * Tensorflow ver : 1.13
-* Python : 3.7
+* Python : 3.6
 
 # Detection using Camera
 ![alt text](https://github.com/imprashanthv/ObjectDetection/blob/master/live_demo.png "Detection using Camera")
@@ -17,8 +17,11 @@ Creating accurate machine learning models capable of localizing and identifying
 multiple objects in a single image remains a core challenge in computer vision.
 The TensorFlow Object Detection API is an open source framework built on top of
 TensorFlow that makes it easy to construct, train and deploy object detection
-models.  At Google we’ve  found this codebase to be useful.
+models.
 
 # Detection for Video
 
 ![alt text](https://github.com/imprashanthv/ObjectDetection/blob/master/video_demo.jpeg "Detection for Video")
+
+
+
